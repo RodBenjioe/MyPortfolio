@@ -1,3 +1,11 @@
 h1{
     color: green;
 }
+
+.slideshow{
+    
+}
+
+.slideshow img{
+    max-width: 400px;
+}
